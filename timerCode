@@ -15,8 +15,8 @@ const char *password = "WiFi-Passwort";
 //Zeitverschiebung UTC <-> MEZ (Sommerzeit) = 7200 Sekunden (2 Stunden)
 const long utcOffsetInSeconds = 3600;
 
-const int twoMin = 2;
-const int oneMin = 2;
+const int twoMin = 120;
+const int oneMin = 60;
 int currentTime = 0;
 
 WiFiUDP ntpUDP;
