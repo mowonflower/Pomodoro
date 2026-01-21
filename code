@@ -8,8 +8,8 @@
 #define BUTTON_BLACK_PIN D3 // Make sure this PIN is right!
 #define STRIPSIZE 12
 
-const char *ssid     = "WiFi-84571";
-const char *password = "3vqljMM1SY^0hmTGWvrj";
+const char *ssid     = "WiFi-Netzwerk";
+const char *password = "WiFI-Passwor";
 
 //Zeitverschiebung UTC <-> MEZ (Winterzeit) = 3600 Sekunden (1 Stunde)
 //Zeitverschiebung UTC <-> MEZ (Sommerzeit) = 7200 Sekunden (2 Stunden)
